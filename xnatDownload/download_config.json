@@ -1,0 +1,5 @@
+{
+  "server": "https://rpacs.iibi.uiowa.edu/xnat", 
+  "destination": "/out",
+  "project": "BIKE_EXTEND"
+}
